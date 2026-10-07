@@ -19,3 +19,11 @@ number = (20, 40, 39, 50)
 
 # dict (Dictionary): কি (Key) এবং ভ্যালু (Value) জোড়ায় জোড়ায় ডেটা রাখার জন্য ব্যবহৃত হয়
 students = {"name" : "Khadiza", "age" : 22}
+
+# set --> unique number
+unique_numbers = {1, 2, 3, 3, 4}
+print(unique_numbers)  # আউটপুট দেখাবে: {1, 2, 3, 4} (ডুপ্লিকেট 3 বাদ পড়ে যাবে)
+
+# none
+result = None
+
