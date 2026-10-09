@@ -1,3 +1,4 @@
+# list --> Mutable
 fruits = ["apple", "banana", "mango", "cherry"]
 
 # print(fruits[1])
